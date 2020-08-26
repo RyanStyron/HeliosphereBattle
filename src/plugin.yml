@@ -1,0 +1,5 @@
+name: HS-Battle
+version: 1.0
+author: RySty
+main: mc.rysty.heliospherebattle.HelioSphereBattle
+api-version: 1.16

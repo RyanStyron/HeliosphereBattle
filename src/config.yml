@@ -1,0 +1,7 @@
+permission-error: "&c&l(!)&f You do not have permission to do this."
+console-error: "&c&l(!)&f Only players can execute this command."
+player-error: "&c&l(!)&f A valid player must be specified."
+argument-error: "&c&l(!)&f Usage: <usage>"
+
+version-high-error: "&c&l(!)&f You must be in version <version> or lower."
+version-low-error: "&c&l(!)&f You must be in version <version> or higher."

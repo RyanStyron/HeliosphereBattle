@@ -2,4 +2,6 @@ name: HS-Battle
 version: 1.0
 author: RySty
 main: mc.rysty.heliospherebattle.HelioSphereBattle
+depend: [HS-Minigames]
+softdepend: [ProtocolSupport, ViaVersion]
 api-version: 1.16
